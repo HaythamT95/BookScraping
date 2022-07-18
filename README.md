@@ -1,6 +1,6 @@
 # BookScraping
 
-*Part 1 of book scraping software*
+**Part 1 of book scraping software**
 
 In this software I collect books from website called "https://openlibrary.org/" and save every readable book to my database with its cover picture, book name, and author.
 
