@@ -7,3 +7,5 @@ In this software I collect books from website called "https://openlibrary.org/" 
 The website "https://openlibrary.org/" contains different type of functionalities e.g you can read the book online, preview the book without reading, borrowing the book.
 So the software has to identify which book can be readable. After finding the readable books I save their links then download them to my PC and then upload them to the
 datebase.
+
+**for Part 2 please click this link**: https://github.com/HaythamT95/BookWebScraping.git
