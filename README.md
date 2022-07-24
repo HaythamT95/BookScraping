@@ -8,4 +8,4 @@ The website "https://openlibrary.org/" contains different type of functionalitie
 So the software has to identify which book can be readable. After finding the readable books I save their links then download them to my PC and then upload them to the
 datebase.
 
-**for Part 2 please click this link**: https://github.com/HaythamT95/BookWebScraping.git
+**For part 2 please click this link**: https://github.com/HaythamT95/BookWebScraping.git
